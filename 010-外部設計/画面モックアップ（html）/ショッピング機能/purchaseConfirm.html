@@ -39,7 +39,17 @@
 			配送先<br />
 			<input type='radio' name='destination' value='registered' checked />ご自宅<br /><br />
 			<input type='radio' name='destination' value='another' />配送先を指定<br />
-			ご住所<br />
+			都道府県<br />
+			<select name="prefecture">
+				<option value="hokkaido" selected>北海道</option>
+				<option value="aomori">青森</option>
+				<option value="iwate">岩手</option>
+				<option value="akita">秋田</option>
+				<option value="miyagi">宮城</option>
+				<option value="yamagata">山形</option>
+				<option value="hukushima">福島</option>
+			</select><br />
+			市区町村以降の番地<br />
 			<input type='text' name='address' /><br /><br />
 			購入しますか？<br />
 			<input type='submit' value='購入する' />

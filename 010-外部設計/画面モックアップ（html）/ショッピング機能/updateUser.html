@@ -26,8 +26,19 @@
 					<td><input type='password' name='password2' class='password' /></td>
 				</tr>
 				<tr>
-					<th>ご住所</th>
-					<td><input type='text' name='address' value='東京都千代田区１－１－１' class='text' /></td>
+					<th>都道府県</th>
+					<td><select name="prefecture">
+							<option value="tokyo">東京</option>
+						</select><br />
+					</td>
+				</tr>
+				<tr>
+					<th>
+						市区町村以降の住所
+					</th>
+					<td>
+						<input type='text' value="千代田区１－１－１" name='address' class='text' />
+					</td>
 				</tr>
 				<tr>
 					<td colspan='2'><input type='submit' value='変更' /></td>
