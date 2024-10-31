@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ItemsDAOTest" project="ecsite" tests="19" started="19" failures="0" errors="0" ignored="0">
+  <testsuite name="com.bh.ecsite.dao.ItemsDAOTest" time="16.968">
+    <testcase name="findByBothTest06" classname="com.bh.ecsite.dao.ItemsDAOTest" time="1.384"/>
+    <testcase name="findByBothTest07" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.772"/>
+    <testcase name="findByBothTest12" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.861"/>
+    <testcase name="findByBothTest13" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.923"/>
+    <testcase name="findByBothTest18" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.836"/>
+    <testcase name="findByBothTest19" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.806"/>
+    <testcase name="findByKeywordTest04" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.871"/>
+    <testcase name="findByKeywordTest05" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.829"/>
+    <testcase name="findByKeywordTest11" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.842"/>
+    <testcase name="findByKeywordTest17" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.885"/>
+    <testcase name="findAllTest01" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.877"/>
+    <testcase name="findAllTest14" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.855"/>
+    <testcase name="findByIdTest08" classname="com.bh.ecsite.dao.ItemsDAOTest" time="1.04"/>
+    <testcase name="findByCategoryTest02" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.995"/>
+    <testcase name="findByCategoryTest03" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.879"/>
+    <testcase name="findByCategoryTest09" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.865"/>
+    <testcase name="findByCategoryTest10" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.807"/>
+    <testcase name="findByCategoryTest15" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.766"/>
+    <testcase name="findByCategoryTest16" classname="com.bh.ecsite.dao.ItemsDAOTest" time="0.874"/>
+  </testsuite>
+</testrun>
